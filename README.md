@@ -1,1 +1,1 @@
-# exo
+print("hello world")
